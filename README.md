@@ -27,9 +27,11 @@
 </div>
 <br />
 
-<div align="center">
+---
+
   ![GitHub Stats](https://streak-stats.demolab.com?user=Gktw0o&theme=tokyonight&hide_border=true)
-</div>
+
+---
 
 <div align="center">
 <a href="https://github.com/gktw0o" target="_blank">
