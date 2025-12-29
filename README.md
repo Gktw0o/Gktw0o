@@ -26,9 +26,11 @@
 <img align="center" width="50px" style="padding-right:20px;" alt="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
 </div>
 <br />
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Gktw0o&theme=tokyonight&hide_border=true" alt="Gktw0o's GitHub Stats" />
-</div> 
+  ![GitHub Stats](https://streak-stats.demolab.com?user=Gktw0o&theme=tokyonight&hide_border=true)
+</div>
+
 <div align="center">
 <a href="https://github.com/gktw0o" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
