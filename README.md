@@ -9,6 +9,11 @@
   <a href="https://github.com/Gktw0o?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gktw0o?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gktw0o&&style=flat-square" align="center" />
+</p>
+
+---
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=500&pause=5000&color=00760B&width=500&height=50&lines=Languages+and+Tools:" alt="Typing SVG" /></a> 
@@ -26,10 +31,6 @@
 <img align="center" width="50px" style="padding-right:20px;" alt="Tauri" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
 </div>
 <br />
-
----
-
-  ![GitHub Stats](https://streak-stats.demolab.com?user=Gktw0o&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -54,12 +55,6 @@
 
 <br/>  
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gktw0o&show_icons=true&locale=en&layout=compact" alt="gktw0o" /></p>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Gktw0o&&style=flat-square" align="center" />
-</div>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/gktw0o" target="_blank" style="display: inline-block;">
