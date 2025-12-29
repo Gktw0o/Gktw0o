@@ -27,7 +27,7 @@
 </div>
 <br />
 <div align="center">
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gktw0o&theme=react" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Gktw0o&theme=tokyonight&hide_border=true" alt="Gktw0o's GitHub Stats" />
 </div> 
 <div align="center">
 <a href="https://github.com/gktw0o" target="_blank">
